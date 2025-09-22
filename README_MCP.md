@@ -199,7 +199,7 @@ class WebSocketMcpClient {
 - Flutter Integration Patterns
 - Security Best Practices
 
-### Development Team
-Created by Tanathon Chanapha 6511454
+### Development 
+Created by Tanathon Chanapha 65114540240
 
 This document serves as a comprehensive guide for integrating MCP with Flutter applications, providing both theoretical understanding and practical implementation guidance in both English and Thai languages.
